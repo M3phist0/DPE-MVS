@@ -48,7 +48,7 @@ If you need to filter out the sky during point cloud fusion, you can use a segme
 ## Acknowledgements
 This code largely benefits from the following repositories: [APD-MVS](https://github.com/whoiszzj/APD-MVS), [HPM-MVS](https://github.com/CLinvx/HPM-MVS). Thanks to their authors for opening the source of their excellent works!
 
-## Comparison on ETH3D
+## Comparison on ETH3D Benchmark
 
 <p align="center">
   <img src="./DPE-MVS/asset/eth3d-1.png" width="49%">
